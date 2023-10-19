@@ -1,3 +1,7 @@
+#In summary, this code provides a basic face detection application using the Mediapipe library. 
+#It captures video from the default webcam, detects faces in real-time, and displays the video feed with
+#detected faces highlighted.
+#The program continues to run until the user presses the "q" key.
 import cv2
 import mediapipe as mp
 
